@@ -1,0 +1,16 @@
+[
+    {"id":1, "nombre":"buzo Jordan Sport Dna","imagen":"img/buzos/buzos1.jpg", "precio":24000},
+    {"id":2, "nombre":"buzo Nike Nsw Air Flc Top","imagen":"img/buzos/buzos2.jpg", "precio":23500},
+    {"id":3, "nombre":"buzo Nike Sportswear","imagen":"img/buzos/buzos3.jpg", "precio":22000},
+    {"id":4, "nombre":"buzo Jordan Essentials ","imagen":"img/buzos/buzos4.jpg", "precio":21000},
+    {"id":5, "nombre":"buzosra Jordan","imagen":"img/buzos/buzos5.jpg", "precio":18000},
+    {"id":6, "nombre":"buzosra Nike Sportswear Club","imagen":"img/buzos/buzos6.jpg","precio":27000},    
+    {"id":7, "nombre":"buzosra Nike Icon Clash","imagen":"img/buzos/buzos7.jpg" ,"precio":21000},
+    {"id":8, "nombre":"buzosra Nike Sport Lvl 1","imagen":"img/buzos/buzos8.jpg","precio":21000},
+    {"id":9, "nombre":"buzosra Nike Air Hoodie","imagen":"img/buzos/buzos9.jpg","precio":12000},
+    {"id":10, "nombre":"buzosra Nike Sport Air Velour","imagen":"img/buzos/buzos10.jpg.jpg","precio":16000},
+    {"id":11, "nombre":"buzosra Nike Sportswear ","imagen":"img/buzos/buzos11.jpg","precio":19000},
+    {"id":12, "nombre":"buzosra Nike Dunk Low","imagen":"img/buzos/buzos12.jpg","precio":29000}
+]
+
+    

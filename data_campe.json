@@ -1,0 +1,16 @@
+[
+    {"id":1, "nombre":"Campera Jordan Sport Dna","imagen":"img/campe/campe1.jpg", "precio":24000},
+    {"id":2, "nombre":"Campera Nike Nsw Air Flc Top","imagen":"img/campe/campe2.jpg", "precio":23500},
+    {"id":3, "nombre":"Campera Nike Sportswear","imagen":"img/campe/campe3.jpg", "precio":22000},
+    {"id":4, "nombre":"Campera Jordan Essentials ","imagen":"img/campe/campe4.jpg", "precio":21000},
+    {"id":5, "nombre":"Campera Jordan","imagen":"img/campe/campe5.jpg", "precio":18000},
+    {"id":6, "nombre":"Campera Nike Sportswear Club","imagen":"img/campe/campe6.jpg","precio":27000},    
+    {"id":7, "nombre":"Campera Nike Icon Clash","imagen":"img/campe/campe7.jpg" ,"precio":21000},
+    {"id":8, "nombre":"Campera Nike Sport Lvl 1","imagen":"img/campe/campe8.jpg","precio":21000},
+    {"id":9, "nombre":"Campera Nike Air Hoodie","imagen":"img/campe/campe9.jpg","precio":12000},
+    {"id":10, "nombre":"Campera Nike Sport Air Velour","imagen":"img/campe/campe10.jpg.jpg","precio":16000},
+    {"id":11, "nombre":"Campera Nike Sportswear ","imagen":"img/campe/campe11.jpg","precio":19000},
+    {"id":12, "nombre":"Campera Nike Dunk Low","imagen":"img/campe/campe12.jpg","precio":29000}
+]
+
+    

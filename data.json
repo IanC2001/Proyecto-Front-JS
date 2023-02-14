@@ -1,0 +1,16 @@
+[
+    {"id":1, "nombre":"Zapatillas Nike Air Force 1 High","imagen":"img/main/nike1.jpg", "precio":24000},
+    {"id":2, "nombre":"Zapatillas Nike Force 1","imagen":"img/main/nike2.jpg", "precio":23500},
+    {"id":3, "nombre":"Zapatillas Nike Air Force 1 07","imagen":"img/main/nike3.jpg", "precio":22000},
+    {"id":4, "nombre":"Zapatillas Nike Air More","imagen":"img/main/nike4.jpg", "precio":21000},
+    {"id":5, "nombre":"Zapatillas Nike Waffle One","imagen":"img/main/nike5.jpg", "precio":18000},
+    {"id":6, "nombre":"Zapatillas Nike Court Legacy","imagen":"img/main/nike6.jpg","precio":27000},    
+    {"id":7, "nombre":"Zapatillas Nike Blazer Low","imagen":"img/main/nike7.jpg","precio":21000},
+    {"id":8, "nombre":"Zapatillas Nike Low","imagen":"img/main/nike8.jpg","precio":21000},
+    {"id":9, "nombre":"Zapatillas Nike Toggle","imagen":"img/main/nike9.jpg","precio":12000},
+    {"id":10, "nombre":"Zapatillas Nike Af1","imagen":"img/main/nike10.jpg","precio":16000},
+    {"id":11, "nombre":"Zapatillas Nike Waffle One","imagen":"img/main/nike11.jpg","precio":19000},
+    {"id":12, "nombre":"Zapatillas Nike Dunk Low","imagen":"img/main/nike12.jpg","precio":29000}
+]
+
+    

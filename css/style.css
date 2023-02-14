@@ -1,0 +1,261 @@
+body{
+    background-color: rgba(81, 200, 194, 0.392);
+}
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: center;
+}
+
+.wppFlex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+header{
+    margin-top: 20px;
+}
+
+
+.p{
+    margin-top: 13px;
+    text-align: center;
+    background-color: rgba(97, 197, 217, 0.856);
+    font-weight: bold ;
+    font-size: 20px;
+}
+
+.pTexto{
+    display: flex;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.flexCarrito{
+    margin-right: 20px;
+}
+
+
+div nav ul{
+    list-style:  none;
+    text-decoration: none;
+}
+.bg-pink:hover{
+    background-color: rgba(101, 216, 224, 0.443);
+}
+.none{
+    text-decoration: none;
+    color: black;
+}
+.none:hover{
+    background-color: rgba(101, 216, 224, 0.443);
+}
+
+
+div ul li a:hover{
+    background-color: rgba(101, 216, 224, 0.443);
+}
+
+.flexDiv{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+.img{
+    width: 45%;
+    height: auto;
+    margin-top:20px;
+   
+}
+
+.imgF{
+    padding:3px;
+    margin-top: 5px;
+    width:50px;
+    height: auto;
+    margin-left: 25px;
+}
+
+
+.pie{
+    display: flex;
+    flex-direction: row;
+    background-color: rgba(97, 197, 217, 0.856);
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+
+
+   
+
+.carrito{
+    width: 40px;
+}
+
+.carrito:hover{
+    color: black;
+}
+
+
+
+.centrado{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    
+}
+ 
+
+.centrado2{
+    position: absolute;
+    bottom: 22%;
+    left: 16.5%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+}
+
+.centrado3{
+    position: absolute;
+    right:40.8%;
+    bottom:22%;
+    transform: translate(-50%, -50%);
+}
+
+.centrado4{
+    position: absolute;
+    right:1%;
+    bottom: 22%;
+    transform: translate(-50%, -50%);
+}
+
+.opacidad{
+    background-blend-mode: soft-light;
+    box-shadow: 5px 8px 12px black;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.opacidad:hover{
+    scale: 1.1;
+    transition-duration: 0.2s;
+}
+
+
+
+.textoImg{
+    font-size: 3.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.flexMain{
+    display: flex;
+    justify-content: space-around;
+   flex-wrap: wrap;
+}
+
+.noneMain{
+    list-style:  none;
+    text-decoration: none;
+    color: black;
+}
+
+.divDesc{
+    display: flex;
+    margin-top: 8%;
+    background-color: rgba(97, 197, 217, 0.856);
+    flex-direction: column;
+    align-items: center;    
+    padding: 20px;
+}                      
+       
+
+.flexSection{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top:25px;
+    background-color: rgba(97, 197, 217, 0.856);
+}
+
+.imgSection{
+    width: 30px;
+    margin-top: 15px;
+}
+
+
+h5{
+    margin-top: 1%;
+}
+
+
+
+.divflex{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    margin-top: 1.5%;
+}
+.divflex .pagenv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.divflex .pagenv .img{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: nowrap;
+    margin-bottom: 5%;
+}
+
+.contFlex{
+    display: flex;
+    margin-left: 1%;
+}
+
+
+
+.pPie{
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.imgProductos{
+    width: 300px !important;
+    height: auto;
+}
+
+
+.cardd{
+    margin:5% 1em;
+    
+}
+
+.roww{
+    display: flex;
+    flex-wrap: wrap;
+    overflow-x: hidden;
+}
+
+.total{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.bg{
+    background-color: rgba(81, 200, 194, 0.392);
+}
+
+.btn:hover{
+    font-weight: bold;
+}
