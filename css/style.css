@@ -259,3 +259,49 @@ h5{
 .btn:hover{
     font-weight: bold;
 }
+
+
+
+@media(max-width:1800px){
+    .centrado2{
+        display: none;
+    }
+}
+
+@media(max-width:1800px){
+    .centrado3{
+        display: none;
+    }
+}
+
+@media(max-width:1800px){
+    .centrado4{
+        display: none;
+    }
+}
+
+@media(max-width:900px){
+    .divflex{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        margin-top: 1.5%;
+        align-items: center
+    }
+}
+
+@media(max-width:720px){
+    .divflex .pagenv .img{
+    flex-wrap: wrap;
+    }
+    .flexSection{
+        display: none;
+    }
+}
+
+@media(max-width:500px){
+    .opacidad{
+        width: 200px;
+    }
+}
+    
